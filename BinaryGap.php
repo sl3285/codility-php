@@ -22,8 +22,8 @@ Complexity:
 
 Copyright 2009–2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. 
 
-/*  1st attemp: https://codility.com/demo/results/trainingDCX4JA-Y4V/  */
-/*  2nd attemp: https://codility.com/demo/results/training5EZ9T8-NZQ/  */
+/* 1st attemp: https://codility.com/demo/results/trainingDCX4JA-Y4V/   */
+/* 2nd attemp: https://codility.com/demo/results/training5EZ9T8-NZQ/   */
 /***********************************************************************/
 
 function solution($N) {
