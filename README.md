@@ -1,1 +1,1 @@
-# codility-php
+# Code for codility.com
