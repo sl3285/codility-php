@@ -19,7 +19,7 @@ Assume that:
 	
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
 
-Copyright 2009¨C2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. */
+Copyright 2009â€“2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. */
 
 /***********************************************************************/
 /* 1st attemp: https://codility.com/demo/results/trainingZ3UPC6-VZU/   */
