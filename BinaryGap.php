@@ -1,7 +1,7 @@
 <?php
 
 /***********************************************************************/
-/* Task description 
+/*                        Task description 
 
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
 
@@ -20,18 +20,13 @@ Complexity:
 	expected worst-case time complexity is O(log(N));
 	expected worst-case space complexity is O(1).
 
-Copyright 2009–2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. */
+Copyright 2009–2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. 
 
+/*  1st attemp: https://codility.com/demo/results/trainingDCX4JA-Y4V/  */
+/*  2nd attemp: https://codility.com/demo/results/training5EZ9T8-NZQ/  */
 /***********************************************************************/
-/* 1st attemp: https://codility.com/demo/results/trainingDCX4JA-Y4V/   */
-/* 2nd attemp: https://codility.com/demo/results/training5EZ9T8-NZQ/   */
-/***********************************************************************/
-
-// you can write to stdout for debugging purposes, e.g.
-// print "this is a debug message\n";
 
 function solution($N) {
-    // write your code in PHP5.5
     $binary=decbin($N);
     $strb= (string)$binary;
     $len=strlen($strb);
