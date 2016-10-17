@@ -1,7 +1,7 @@
 <?php
 
 /***********************************************************************/
-/* Task description 
+/*                        Task description 
 
 A zero-indexed array A consisting of N integers is given. Rotation of the array means that each element is shifted right by one index, and the last element of the array is also moved to the first place.
 
@@ -15,20 +15,16 @@ For example, given array A = [3, 8, 9, 7, 6] and K = 3, the function should retu
 
 Assume that:
 	N and K are integers within the range [0..100];
-	each element of array A is an integer within the range [−1,000..1,000].
+	each element of array A is an integer within the range [?1,000..1,000].
 	
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
 
 Copyright 2009–2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. */
 
+/*  1st submit: https://codility.com/demo/results/trainingZ3UPC6-VZU/  */
+/*  2nd submit: https://codility.com/demo/results/trainingPTJW8Y-K9N/  */
+/*  3rd submit: https://codility.com/demo/results/training39JCYN-RJT/  */
 /***********************************************************************/
-/* 1st attemp: https://codility.com/demo/results/trainingZ3UPC6-VZU/   */
-/* 2nd attemp: https://codility.com/demo/results/trainingPTJW8Y-K9N/   */
-/* 3rd attemp: https://codility.com/demo/results/training39JCYN-RJT/   */
-/***********************************************************************/
-
-// you can write to stdout for debugging purposes, e.g.
-// print "this is a debug message\n";
 
 function solution($A, $K) {
     if(count($A)==0){
