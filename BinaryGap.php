@@ -20,7 +20,7 @@ Complexity:
 	expected worst-case time complexity is O(log(N));
 	expected worst-case space complexity is O(1).
 
-Copyright 2009–2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. 
+Copyright 2009–2016 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited. */
 
 /* 1st submit: https://codility.com/demo/results/trainingDCX4JA-Y4V/   */
 /* 2nd submit: https://codility.com/demo/results/training5EZ9T8-NZQ/   */
